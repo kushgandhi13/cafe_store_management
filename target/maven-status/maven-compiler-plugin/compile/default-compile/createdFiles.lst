@@ -1,0 +1,12 @@
+com\mycompany\project\DBConnection.class
+com\mycompany\project\LogoutServlet.class
+com\mycompany\project\PlaceOrderDao.class
+com\mycompany\project\ProductOperationServlet.class
+com\mycompany\project\OrderServlet.class
+com\mycompany\project\PreviousDao.class
+com\mycompany\project\LoginBean.class
+com\mycompany\project\LoginServlet.class
+com\mycompany\project\order.class
+com\mycompany\project\LoginDao.class
+com\mycompany\project\PreviousOrderServlet.class
+com\mycompany\project\RegisterServlet.class
